@@ -1,0 +1,26 @@
+{
+  "amazon": {
+    "doc": "https://developer.amazon.com/apps-and-games/login-with-amazon"
+  },
+  "stripe": {
+    "doc": "https://stripe.com/docs/connect/oauth-reference"
+  },
+  "shopify": {
+    "doc": "https://shopify.dev/apps/auth"
+  },
+  "square": {
+    "doc": "https://developer.squareup.com/reference/square/oauth-api/authorize"
+  },
+  "notion": {
+    "doc": "https://developers.notion.com/"
+  },
+  "uber": {
+    "doc": "https://developer.uber.com/docs/riders/guides/authentication/introduction"
+  },
+  "zoom": {
+    "doc": "https://marketplace.zoom.us/docs/guides"
+  },
+  "discord": {
+    "doc": "https://discord.com/developers/docs/topics/oauth2"
+  }
+}
